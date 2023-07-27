@@ -1,6 +1,8 @@
 # Data Science Basics
 
 
-These are some Data Science basics , im remastering them 😝
-Feel free to copy the code and test it yourself 
-N.B : this code has no comments , you can use the documentation to grasp the code
+It is a remastering of some Data Science basics that I am doing 
+
+You are welcome to copy the code and test it for yourself if you wish 
+
+Please note that this code has no comments; you can use the documentation to gain a better understanding of the code
